@@ -10,7 +10,7 @@ public class Main {
             "54335", "5435434", "456546", "555464", "54565"};
 
     private static final String[] address = {"Brasilia", "Rio", "Asa Norte", "New York", "Asa Norte",
-            "Salvador", "Sao Paulo", "Goiania", "Asa Sul", "Gama"};
+            "Salvador", "Sao Paulo", "Goiania", "Asa Sul", "Guara"};
 
     private static final String[] productsName = {"Water", "Juice", "Soda", "Popcorn", "Candy", "Chocolate",
             "Ice cream", "Sandwich", "Hot dog", "Hamburger"};
